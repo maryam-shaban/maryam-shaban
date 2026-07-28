@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Maryam!
 
-<!--
-**maryam-shaban/maryam-shaban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about building software and enjoy working on backend systems, networking applications, and web development. I like learning by building challenging projects and continuously expanding my technical skills.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Interested in backend development and systems programming
+- Enjoy solving programming challenges
+- Exploring Artificial Intelligence and Cloud Computing
+- Always learning something new
+
+## Technologies
+
+### Languages
+
+- Rust
+- Go
+- JavaScript
+- SQL
+
+### Tools & Technologies
+
+- Git
+- Linux
+- Docker
+- SQLite
+
+## Featured Projects
+
+Coming soon...
+
+## Currently Learning
+
+- Artificial Intelligence
+- Cloud Computing
+
+Thanks for stopping by!
